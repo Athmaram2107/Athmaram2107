@@ -2,7 +2,7 @@
 - 👀 I’m interested in .web developing..
 - 🌱 I’m currently learning .javascript..
 - 💞️ I’m looking to collaborate on ..some of the websites which can give safety to girls automatically when they are danger.
-- 📫 How to reach me .through my mail..
+- 📫 How to reach me .through my mail.ramathmakuri33@gmail.com.
 
 <!---
 Athmaram2107/Athmaram2107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
