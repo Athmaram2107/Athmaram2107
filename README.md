@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Athmaram2107
+- 👋 Hi, I’m @Athmaram
 - 👀 I’m interested in .web developing..
-- 🌱 I’m currently learning .javascript..
-- 💞️ I’m looking to collaborate on ..some of the websites which can give safety to girls automatically when they are danger.
+- 🌱 I’m currently learning .react js..
+- 💞️ I’m looking to collaborate on .frontend developent projects..
 - 📫 How to reach me .through my mail.ramathmakuri33@gmail.com.
 
 <!---
