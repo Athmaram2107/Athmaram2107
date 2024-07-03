@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Athmaram
 - 👀 I’m interested in .web developing..
 - 🌱 I’m currently learning .react js..
-- 💞️ I’m looking to collaborate on .frontend developent projects..
+- 💞️ I’m looking to collaborate on .frontend development projects..
 - 📫 How to reach me .through my mail.ramathmakuri33@gmail.com.
 
 <!---
