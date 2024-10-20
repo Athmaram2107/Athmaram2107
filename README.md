@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Athmaram
-- 👀 I’m a mern satck developer
-- 🌱 I’m eager to build websites and i am ready  to work collabratively with any one..
-- 💞️ I’m looking to collaborate on mern stack projects..
+- 👋 Hi, I’m @Athmaram a passionate web developer with expertize in design patterns and good probem solving skills.
+- 
+  Technologies and Tools
+  Backend skills-Node js,express,mongo db
+
+  Frontend Skills
+  Frameworks/Libraries:React,Tailwind CSS
+  Languages:HTML,CSS,JavaScript
+  
 - 📫 How to reach me .through my mail.ramathmakuri33@gmail.com.
 
 <!---
